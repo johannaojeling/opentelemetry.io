@@ -751,6 +751,10 @@
     "StatusCode": 200,
     "LastSeen": "2026-03-03T09:52:12.25440689Z"
   },
+  "https://cloud-native.slack.com/archives/C01S42U83B2": {
+    "StatusCode": 200,
+    "LastSeen": "2026-03-11T09:32:55.806034+01:00"
+  },
   "https://cloud-native.slack.com/archives/C02UN96HZH6": {
     "StatusCode": 200,
     "LastSeen": "2026-03-03T09:52:11.57752481Z"
@@ -7802,6 +7806,10 @@
   "https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/6a2bd15cc941859767c7043a0597b8b0f6dd9f64/receiver/sapmreceiver#sapm-receiver": {
     "StatusCode": 206,
     "LastSeen": "2026-03-02T09:52:47.872312935Z"
+  },
+  "https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/6aff35ab5351482a4664f29a7d5428cedcf61a92/connector/routingconnector?from_branch=main": {
+    "StatusCode": 206,
+    "LastSeen": "2026-03-11T09:32:52.153096+01:00"
   },
   "https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/72087f655403778da46f4168dca2433fa0775098/receiver/filelogreceiver?from_branch=main": {
     "StatusCode": 206,
